@@ -18,7 +18,7 @@ The objective of this paper is to show how detailed open data on public procurem
  
 Keywords: open data, public procurement, open contracting, late payments, financial cost, public payment delays
 
-
 <p class="text-center">
-{% include elements/button.html link="https://github.com/Camilamila/Capstone-project" text="See code on Github" %}
+{% include elements/button.html link="https://github.com/Camilamila/Late-payments-paper" text="See code on Github" %}
 </p>
+
