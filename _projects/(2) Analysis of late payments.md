@@ -5,7 +5,7 @@ image: https://drive.google.com/uc?export=view&id=1eO5b1pRkeRLpRgXHNtO9ZzX2Uik7h
 description: This project analyzed open data on public procurement payment processes in Paraguay to estimate the cost that delays in the payment process have on suppliers and to identify variables that can affect these delays.
 ---
 
-# The cost of late payments in Public Procurement
+# The cost of late payments in public procurement
 
 ### Abstract
 
