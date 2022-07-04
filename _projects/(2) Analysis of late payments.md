@@ -20,5 +20,5 @@ Keywords: open data, public procurement, open contracting, late payments, financ
 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/Camilamila/Late-payments-paper" text="See code on Github" %}
+{% include elements/button.html link="https://github.com/Camilamila/Capstone-project" text="See code on Github" %}
 </p>
