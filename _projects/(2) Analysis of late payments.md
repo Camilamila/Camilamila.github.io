@@ -1,7 +1,7 @@
 ---
 name: Analysis of late payments in public procurement
 tools: [R]
-image: .assets/duration.png
+image: https://drive.google.com/uc?export=view&id=1eO5b1pRkeRLpRgXHNtO9ZzX2Uik7hGHZ
 description: This project analyzed open data on public procurement payment
 processes in Paraguay to estimate the cost that delays in the payment process have on suppliers and to
 identify variables that can affect these delays.  The paper was published in the book ["Situating Open Data: Global Trends in Local Contexts"](https://www.africanminds.co.za/situation-open-data-global-trends-in-local-contexts/)
