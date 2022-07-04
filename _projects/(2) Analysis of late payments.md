@@ -13,8 +13,7 @@ The objective of this paper is to show how detailed open data on public procurem
 
 <span style="background-color:#dff298"> This paper was published in the book ["Situating Open Data: Global Trends in Local Contexts"](https://www.africanminds.co.za/situation-open-data-global-trends-in-local-contexts/) </span>
 
-https://drive.google.com/uc?export=view&id=1n80OwIzkurbwW5BDNhQYke9N135KyBUQ![image](https://user-images.githubusercontent.com/24500400/177223293-019fc3dd-ae5c-48c2-a0a6-2396a57bf4c2.png)
-
+https://drive.google.com/uc?export=view&id=1n80OwIzkurbwW5BDNhQYke9N135KyBUQ
  
 Keywords: open data, public procurement, open contracting, late payments, financial cost, public payment delays
 
