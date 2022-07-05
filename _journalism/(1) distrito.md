@@ -1,5 +1,5 @@
 ---
-title: La votación por distritos
+name: Votes by districts
 tools: [R]
 image: https://drive.google.com/uc?export=view&id=1xsbSMihhgei4kE029MRZYH-B00TkZTLC
 description: Analysis of electoral results for the runoff of the 2018 presidential elections
