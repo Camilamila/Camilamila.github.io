@@ -2,7 +2,7 @@
 name: Data analysis at OCP
 tools: [R, Python, SQL, Google Colab]
 image: https://drive.google.com/uc?export=view&id=1Cet-8efmpezSrGyZDKXfP8Pn0EbFeMHU
-description: Analysis projects about procurement data as part of my work at OCP
+description: Analysis projects about procurement data as part of my work at the Open Contracting Partnership
 ---
 
 
