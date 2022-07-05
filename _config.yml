@@ -54,6 +54,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  journalism:
+    output: true
+    permalink: /journalism/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
