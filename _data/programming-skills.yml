@@ -1,6 +1,6 @@
 - name: R
   percentage: 90
-  color: #D6e100
+  color: danger
 
 - name: Go
   percentage: 80
