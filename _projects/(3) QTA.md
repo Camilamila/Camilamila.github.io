@@ -1,8 +1,8 @@
 ---
-name: Words on the floor: Thematic structure of political speeches
+name: Words on the floor, thematic structure of political speeches
 tools: [R, Quantitative Text Analysis]
 image: https://drive.google.com/uc?export=view&id=1zbOFDv-r33_jIO9H1NDw3ya1UjvLoFcJ
-description: This paper analyses the thematic structure of political control speeches in the Costa Rican Congress, using a Latent Dirichlet Allocation (LDA) model.
+description: This paper analyses the thematic structure of political control speeches in the Costa Rican Congress, using a Latent Dirichlet Allocation (LDA) model 
 ---
 
 # Words on the floor: Thematic structure of political speeches
