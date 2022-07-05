@@ -1,6 +1,6 @@
-- name: HTML5/CSS3
+- name: R
   percentage: 90
-  color: danger
+  color: #D6e100
 
 - name: Go
   percentage: 80
