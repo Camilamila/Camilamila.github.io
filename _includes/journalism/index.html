@@ -7,7 +7,7 @@
 
       {%- if remote_project == repo.name -%}
 
-        {%- assign journalism = repo -%}
+        {%- assign project = repo -%}
         {%- assign words = project.name | split: '-' -%}
         
         {%- capture titlecase -%}
@@ -17,15 +17,15 @@
         {%- endcapture -%}
 
         {%- assign project_type  = "remote" -%}
-        {%- assign project_id    = journalism.name -%}
+        {%- assign project_id    = project.name -%}
         {%- assign project_img   = false -%}
         {%- assign project_name  = titlecase | strip -%}
-        {%- assign project_desc  = journalism.description -%}
-        {%- assign project_url   = journalism.html_url -%}
-        {%- assign project_tools = journalism.topics -%}
+        {%- assign project_desc  = project.description -%}
+        {%- assign project_url   = project.html_url -%}
+        {%- assign project_tools = project.topics -%}
         {%- assign external      = true -%}
 
-        {% include journalism/project-card.html %}
+        {% include journalism/journalism-card.html %}
 
       {%- endif -%}
 
@@ -51,7 +51,7 @@
       {%- assign external    = false -%}
     {%- endif -%}
 
-    {% include journalism/project-card.html %}
+    {% include journalism/journalism-card.html %}
 
   {% endfor %}
 
