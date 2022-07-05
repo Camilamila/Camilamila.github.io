@@ -1,8 +1,9 @@
 ---
-title: How to undo your git failure?
-tags: [External Post, Git]
+title: La votación por distritos
+tags: [R]
 style: fill
 color: warning
-description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+image: https://drive.google.com/uc?export=view&id=1xsbSMihhgei4kE029MRZYH-B00TkZTLC
+description: Analysis of electoral results for the runoff of the 2018 presidential elections
+external_url: https://www.nacion.com/gnfactory/investigacion/2018/elecciones_presidenciales/diputados/votaciones_distritos.html
 ---
