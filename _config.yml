@@ -25,25 +25,11 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Camila Salazar
   image             : https://drive.google.com/uc?export=view&id=1CyCj2bKNxYUIpl6i8zcd7eZxRG4PwQV6
-  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  email             : camila.salazarm@gmail.com
+  github            : Camilamila
+  linkedin          : camilasalazarm
+  twitter           : @milamila07
+
 
 
 ### Posts ###
