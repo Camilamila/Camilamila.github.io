@@ -15,12 +15,3 @@ I have previously worked in open data initiatives, trainings and research projec
 Skills in R, Python, SQL, econometrics, data visualization, social network analysis, applied machine learning and multimedia storytelling. 
 
 I am a former UK Foreign Office Chevening Scholar, a native Spanish speaker, fully fluent in English and advanced in French.
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
