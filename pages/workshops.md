@@ -5,7 +5,7 @@ permalink: /events/
 weight: 3
 ---
 
-Since 2015 I've been an active member of the global open data community, working as a data trainer and participating in global events in Costa Rica, Canada, Mexico, Guatemala, Nicaragua, Colombia, Brazil, Chile, Paraguay, the United Kingdom, Germany, Italy, Spain and Tanzania.  I have also worked as a data journalism lecturer at the Univerisy of Costa Rica.  
+Since 2015 I've been an active member of the global open data community, working as a data trainer and participating in global events in <span style="background-color:#dff298">Costa Rica, Canada, Mexico, Guatemala, Nicaragua, Colombia, Brazil, Chile, Paraguay, the United Kingdom, Germany, Italy, Spain and Tanzania</span>.  I have also worked as a data journalism lecturer at the Univerisy of Costa Rica.  
 
 
 ## Workshops and trainings
@@ -16,8 +16,8 @@ Since 2015 I've been an active member of the global open data community, working
 * Organization of community building events for the local open data community.  
 
 {% capture carousel_images %}
-https://drive.google.com/uc?export=view&id=1AMRapC0ETu74Zs_D3MECxdrJXnMONd5Q
 https://drive.google.com/uc?export=view&id=1MII2znsvHtS-e-M6H837G7ndqEh8_xiw
+https://drive.google.com/uc?export=view&id=1AMRapC0ETu74Zs_D3MECxdrJXnMONd5Q
 https://drive.google.com/uc?export=view&id=1KZ9o2sRkbUAEGG1wYDaqKepsEjcsll33
 https://drive.google.com/uc?export=view&id=1dD3hRNITiYe9u7PzAf35pLYIH4Q6ofHV
 https://drive.google.com/uc?export=view&id=1LzSByYUcbtnQWr-4Ld8ZJx-FWzt9AT_Q
