@@ -10,9 +10,10 @@ Since 2015 I've been an active member of the global open data community, working
 
 ## Workshops and trainings
 
-* Tutor in 6 editions of the course [Introduction to Open Data in the online Campus of the Organization of American States](https://www.oas.org/es/sap/dgpe/escuelagob/cursos_introduccion-a-los-datos-abiertos.asp).  
+* Tutor in 6 editions of the course [Introduction to Open Data in the online Campus of the Organization of American States](https://www.oas.org/es/sap/dgpe/escuelagob/cursos_introduccion-a-los-datos-abiertos.asp)
 * Trained public servants in Open Government in Costa Rica with the support of the Inter Development Bank and the Latin American Initiative of Open Data.
 * Trainings and talks about data analysis and data journalism in Costa Rica, Tanzania, Brazil, Chile, Mexico and Guatemala. Topics included: data collection, data cleaning, data analysis, data visualization. 
+* Organization of community building events for the local open data community.  
 
 {% capture carousel_images %}
 https://drive.google.com/uc?export=view&id=1AMRapC0ETu74Zs_D3MECxdrJXnMONd5Q
