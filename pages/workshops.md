@@ -15,18 +15,18 @@ Since 2015 I've been an active member of the global open data community, working
 * Trainings and talks about data analysis and data journalism in Costa Rica, Tanzania, Brazil, Chile, Mexico and Guatemala. Topics included: data collection, data cleaning, data analysis, data visualization. 
 
 {% capture carousel_images %}
-https://drive.google.com/file/d/1AMRapC0ETu74Zs_D3MECxdrJXnMONd5Q/view?usp=sharing
-https://drive.google.com/file/d/1MII2znsvHtS-e-M6H837G7ndqEh8_xiw/view?usp=sharing
-https://drive.google.com/file/d/1KZ9o2sRkbUAEGG1wYDaqKepsEjcsll33/view?usp=sharing
-https://drive.google.com/file/d/1dD3hRNITiYe9u7PzAf35pLYIH4Q6ofHV/view?usp=sharing
-https://drive.google.com/file/d/1LzSByYUcbtnQWr-4Ld8ZJx-FWzt9AT_Q/view?usp=sharing
-https://drive.google.com/file/d/19JiJVppLVDgrLg-NIs-cGmV94-NzrdRY/view?usp=sharing
-https://drive.google.com/file/d/1iZVRQKWFBWOBbDDoOQDSrRtpr_9qO9Th/view?usp=sharing
-https://drive.google.com/file/d/14eaU73G6MZpaOhgFAL8BOYfoMfGavptp/view?usp=sharing
-https://drive.google.com/file/d/1akAMdeiFiXh3W--pxqc8pmeDsuWFsP7Z/view?usp=sharing
-https://drive.google.com/file/d/1xh4AREIZiQLV0zrHF5XttZnbaW07jimx/view?usp=sharing
-https://drive.google.com/file/d/1FbJhL9gFWzUi0EXAlhz2P4mdorPmTjNq/view?usp=sharing
-https://drive.google.com/file/d/1J9eg2xSIsBPxWwH36t6rRzWAi3ORMO5E/view?usp=sharing
+https://drive.google.com/uc?export=view&id=1AMRapC0ETu74Zs_D3MECxdrJXnMONd5Q
+https://drive.google.com/uc?export=view&id=1MII2znsvHtS-e-M6H837G7ndqEh8_xiw
+https://drive.google.com/uc?export=view&id=1KZ9o2sRkbUAEGG1wYDaqKepsEjcsll33
+https://drive.google.com/uc?export=view&id=1dD3hRNITiYe9u7PzAf35pLYIH4Q6ofHV
+https://drive.google.com/uc?export=view&id=1LzSByYUcbtnQWr-4Ld8ZJx-FWzt9AT_Q
+https://drive.google.com/uc?export=view&id=19JiJVppLVDgrLg-NIs-cGmV94-NzrdRY
+https://drive.google.com/uc?export=view&id=1iZVRQKWFBWOBbDDoOQDSrRtpr_9qO9Th
+https://drive.google.com/uc?export=view&id=14eaU73G6MZpaOhgFAL8BOYfoMfGavptp
+https://drive.google.com/uc?export=view&id=1akAMdeiFiXh3W--pxqc8pmeDsuWFsP7Z
+https://drive.google.com/uc?export=view&id=1xh4AREIZiQLV0zrHF5XttZnbaW07jimx
+https://drive.google.com/uc?export=view&id=1FbJhL9gFWzUi0EXAlhz2P4mdorPmTjNq
+https://drive.google.com/uc?export=view&id=1J9eg2xSIsBPxWwH36t6rRzWAi3ORMO5E
 {% endcapture %}
 {% include elements/carousel.html %}
 
